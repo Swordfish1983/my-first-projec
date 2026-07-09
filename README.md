@@ -1,33 +1,24 @@
 # my-first-project
 Simple VPN
 
-About
-
-Simple VPN is a personal learning project built with Python. The goal of this project is to learn networking, secure connections, and client-server communication by creating a basic VPN application.
+A simple VPN application built with Python for learning networking and secure connections.
 
 Features
 
-- Secure client-server connection
-- Simple configuration
-- Easy to understand code
-- Learning-focused implementation
+- Secure connection
+- Simple design
+- Easy to use
 
-Project Status
+Status
 
-This project is currently under development. New features, bug fixes, and improvements will be added over time.
+This project is under development.
 
-Why this project?
+Goal
 
-The project helps me improve my Python programming skills and gain practical experience with networking and security concepts.
+The goal of this project is to improve my Python skills and learn more about networking and security.
 
 Future Plans
 
-- Improve connection stability
-- Add better security features
-- Create a simple user interface
-- Write more documentation
-- Add automated tests
-
-License
-
-This project is for educational purposes.
+- Improve performance
+- Add new features
+- Fix bugs
